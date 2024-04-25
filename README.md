@@ -1,9 +1,10 @@
-<h1 align="center">About me</h1>
-img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fim-batman&psig=AOvVaw0HP8ETT14jWy1p4uyEVQTy&ust=1714134454890000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCUt8yu3YUDFQAAAAAdAAAAABAE)](https://images.app.goo.gl/vEpJDFfeYR6ZNRGb8)"
-<h3 align="center">Just kidding, I'm Daniel Muiruri</h3>
+<h1 align="center"> Hi, I'm Daniel Muiruri </h1>
+
+<h6 align="right" > Ik kung-fu too dont play with me ! </h6>
+<img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIELMANZRU&label=Profile%20views&color=0e75b6&style=flat" alt="DANIELMANZRU" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DANIELMANZRU&theme=" alt="DANIELMANZRU" /></a> </p>
 
 - 🔭 I’m currently working on **blood bank system for a hospital**
 - 👯 I’m looking to collaborate on **any project to learn more...**
@@ -67,19 +68,3 @@ img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
-<!--
-**DANIELMANZRU/DANIELMANZRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
