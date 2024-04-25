@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1>
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fim-batman&psig=AOvVaw0HP8ETT14jWy1p4uyEVQTy&ust=1714134454890000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCUt8yu3YUDFQAAAAAdAAAAABAE)"
+img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fim-batman&psig=AOvVaw0HP8ETT14jWy1p4uyEVQTy&ust=1714134454890000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCUt8yu3YUDFQAAAAAdAAAAABAE)](https://images.app.goo.gl/vEpJDFfeYR6ZNRGb8)"
 <h3 align="center">Just kidding, I'm Daniel Muiruri</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIELMANZRU&label=Profile%20views&color=0e75b6&style=flat" alt="DANIELMANZRU" /> </p>
 
