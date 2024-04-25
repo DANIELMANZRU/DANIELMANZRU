@@ -1,6 +1,8 @@
 <h1 align="center"> Hi, I'm Daniel Muiruri </h1>
 
-<h6 align="right" > Ik kung-fu too dont play with me ! </h6>
+<h6 align="right" > I know kung-fu too don't play with me! </h6>
+<img align="right" alt="Coding" width="100" src="https://comicvine.gamespot.com/a/uploads/original/10/104414/4929202-2719825340-tumbl.gif">
+
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIELMANZRU&label=Profile%20views&color=0e75b6&style=flat" alt="DANIELMANZRU" /> </p>
