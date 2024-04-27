@@ -8,15 +8,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIELMANZRU&label=Profile%20views&color=0e75b6&style=flat" alt="DANIELMANZRU" /> </p>
 
 
-- 🔭 I’m currently working on **blood bank system for a hospital**
+- 🔭 I’m currently working on **some projects to be released soon**
 - 👯 I’m looking to collaborate on **any project to learn more...**
-- 🌱 I’m currently learning **kotlin , java , cloud computing and perfecting python**
-- 💬 Ask me about **anything basically! besides, i,m batman**
+- 🌱 I’m currently learning **kotlin , java, cloud computing and perfecting Python**
+- 💬 Ask me about **anything basically!**
 - 📫 How to reach me **dmuiruri2000@gmail.com**
 - 👨‍💻 All of my projects are available at **https://dmuiruri2000.wixsite.com/daniel-muiruri/projects**
 - 📝 I regularly write articles on **https://dmuiruri2000.wixsite.com/daniel-muiruri/blog**
 - 📄 Know about my experiences **https://dmuiruri2000.wixsite.com/daniel-muiruri/resume**
-- ⚡ Fun fact **I think I can play better as a central defensive midfielder rather than my usual right back position , also am very good at FPS games and EAsports and i can go for long distance runs **
+- ⚡ Fun fact **I think I can play better as a central defensive midfielder rather than my usual right-back position , also am very good at FPS games and EAsports and I can go for long-distance runs **
 
 <div> <a href="https://twitter.com/JrKingdante" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dmuiruri2000" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
