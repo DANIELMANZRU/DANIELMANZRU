@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at **https://dmuiruri2000.wixsite.com/daniel-muiruri/projects**
 - 📝 I regularly write articles on **https://dmuiruri2000.wixsite.com/daniel-muiruri/blog**
 - 📄 Know about my experiences **https://dmuiruri2000.wixsite.com/daniel-muiruri/resume**
-- ⚡ Fun fact **I think I can play better as a central defensive midfielder rather than my usual right-back position , also am very good at FPS games and EAsports and I can go for long-distance runs **
+- ⚡ Fun fact **I believe I would excel as a central defensive midfielder rather than my usual right-back position. I also have strong skills in FPS games and EA Sports, and I’m capable of running long distances effectively.**
 
 <div> <a href="https://twitter.com/JrKingdante" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dmuiruri2000" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
