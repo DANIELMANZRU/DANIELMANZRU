@@ -2,9 +2,8 @@
 
 <h6 align="right" > I know kung-fu too don't play with me! </h6>
 <img align="right" alt="Coding" width="100" src="https://comicvine.gamespot.com/a/uploads/original/10/104414/4929202-2719825340-tumbl.gif">
+
 <img align="right" alt="Coding" width="100" src="[https://comicvine.gamespot.com/a/uploads/original/10/104414/4929202-2719825340-tumbl.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlhYmc3OTlsYm92MHQ1YWJyaW40c3gzbXVwdXRjaTZpbzM4ZDZjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIELMANZRU&label=Profile%20views&color=0e75b6&style=flat" alt="DANIELMANZRU" /> </p>
 
 
