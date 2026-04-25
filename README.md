@@ -1,11 +1,12 @@
 <h1 align="center"> Hi, I'm Daniel Muiruri </h1>
 
 <h6 align="right" > I know kung-fu too don't play with me! </h6>
+
+
 <img align="right" alt="Coding" width="100" src="https://comicvine.gamespot.com/a/uploads/original/10/104414/4929202-2719825340-tumbl.gif">
-<img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif">
+<img align="left" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIELMANZRU&label=Profile%20views&color=0e75b6&style=flat" alt="DANIELMANZRU" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIELMANZRU&label=Profile%20views&color=0e75b6&style=flat" alt="DANIELMANZRU"> </p>
 
 - 🔭 I’m currently working on **some projects to be released soon**
 - 👯 I’m looking to collaborate on **any project to learn more...**
@@ -16,6 +17,7 @@
 - 📝 I regularly write articles on **https://dmuiruri2000.wixsite.com/daniel-muiruri/blog**
 - 📄 Know about my experiences **https://dmuiruri2000.wixsite.com/daniel-muiruri/resume**
 - ⚡ Fun fact **I believe I would excel as a central defensive midfielder rather than my usual right-back position. I also have strong skills in FPS games and EA Sports, and I’m capable of running long distances effectively.**
+
 
 <div> <a href="https://twitter.com/JrKingdante" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dmuiruri2000" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
