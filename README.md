@@ -4,7 +4,7 @@
 
 
 <img align="right" alt="Coding" width="100" src="https://comicvine.gamespot.com/a/uploads/original/10/104414/4929202-2719825340-tumbl.gif">
-<img align="left" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
+<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIELMANZRU&label=Profile%20views&color=0e75b6&style=flat" alt="DANIELMANZRU"> </p>
 
@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at **https://dmuiruri2000.wixsite.com/daniel-muiruri/projects**
 - 📝 I regularly write articles on **https://dmuiruri2000.wixsite.com/daniel-muiruri/blog**
 - 📄 Know about my experiences **https://dmuiruri2000.wixsite.com/daniel-muiruri/resume**
-- ⚡ Fun fact **I believe I would excel as a central defensive midfielder rather than my usual right-back position. I also have strong skills in FPS games and EA Sports, and I’m capable of running long distances effectively.**
+- ⚡ Fun fact **I believe I would excel as a central defensive midfielder rather than my usual right-back position. I also have strong skills in FPS games and EA Sports, and I’m capable of running long distances effectively.**></p>
 
 
 <div> <a href="https://twitter.com/JrKingdante" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
